@@ -1,0 +1,16 @@
+{
+  "name": "bamazon",
+  "version": "2.79.976",
+  "description": "Houston Bamazon app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Houston Moses",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "inquirer": "^6.2.1",
+    "mysql": "^2.16.0"
+  }
+}
