@@ -23,11 +23,11 @@ npm install mysql
 - Create a MySQL database
 - Then create a Table inside of that database called products.
 - The products table should have each of the following columns:
- -     1.item_id (unique id for each product)
- -     2.product_name (Name of product)
- -     3.department_name
- -     4.price (cost to customer)
- -     5.stock_quantity (how much of the product is available in stores)
+      1.item_id (unique id for each product)
+      2.product_name (Name of product)
+      3.department_name
+      4.price (cost to customer)
+      5.stock_quantity (how much of the product is available in stores)
 - Populate this database with around 10 different products. (i.e. Insert "mock" data rows into this database and table).
 - Then create a Node application called bamazonCustomer.js. Running this application will first display all of the items available for sale. Include the ids, names, and prices of products for sale.
 - The app should then prompt users with two messages.
